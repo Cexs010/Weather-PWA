@@ -13,9 +13,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/Weather-PWA/",
   "background_color": "#ffffff",
   "display": "standalone",
-  "theme_color": "#2196F3"
+  "theme_color": "#2196F3",
+  "scope": "/Weather-PWA/"
 }
-
